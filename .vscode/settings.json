@@ -7,7 +7,7 @@
     "source.fixAll.eslint": true,
     "source.fixAll.stylelint": true
   },
-  "vetur.validation.template": false,
-  "vetur.validation.style": false,
-  "vetur.validation.script": false
+  "vetur.validation.template": true,
+  "vetur.validation.style": true,
+  "vetur.validation.script": true
 }
